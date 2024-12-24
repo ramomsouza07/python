@@ -1,4 +1,4 @@
-num1 = input('Primeiro número = ')
-num2 = input('Segundo número = ')
+num1=int(input('Escolha um número:'))
+num2=int(input('Escolha outro número:'))
 
 print(num1 + num2)
