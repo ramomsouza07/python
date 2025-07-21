@@ -1,2 +1,0 @@
-fra = str(input('Escreva uma frase: ')).strip().lower()
-print(f'A frase possui {fra.count('a')} "a" \n A primeiro "a" aparece na posição {fra.find('a') + 1} \n A último "a" aparece na posição {fra.rfind('a') + 1}')

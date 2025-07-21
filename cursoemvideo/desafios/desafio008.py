@@ -1,0 +1,2 @@
+m = float(input('Digite um valor em metros: '))
+print(f'O valor quilômetro é igual a {m / 1000}km \n O valor em hectômetros é igual a {m / 100}hm \n O valor em decâmetros é igual a {m / 10}dam \n O valor em decímetros é igual a {m * 10}dm \n O valor em centímetros é igual a {m * 100}cm \n O valor em milímetros é igual a {m * 1000}mm')
