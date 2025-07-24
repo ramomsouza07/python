@@ -11,6 +11,17 @@ A string em python é criada dessa forma:
 nome = palavras separadas
 nome = ['p', 'a', 'l', 'a', 'v', 'r', 'a', 's', ' ', 's', 'e', 'p', 'a', 'r', 'a', 'd', 'a', 's']
          0    1    2    3    4    5    6    7    8    9    10   11   12   13   14   15   16   17
+
+Contatenação de strings em Python
+nome = ramom
+print(nome + 'Souza')
+
+Podemos fazer operações com strings
+print(nome * 4) -> 'ramomramomramomramom'
+
+código unicode -> U+1F61C
+emoji = '\U0001F61C' -> é necessário possuir a \ e o U000 antes do código
+
 """
 
 nome = "Gina's Bar"
