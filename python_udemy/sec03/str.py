@@ -19,6 +19,7 @@ print(nome + 'Souza')
 Podemos fazer operações com strings
 print(nome * 4) -> 'ramomramomramomramom'
 
+https://apps.timwhitlock.info/emoji/tables/unicode
 código unicode -> U+1F61C
 emoji = '\U0001F61C' -> é necessário possuir a \ e o U000 antes do código
 
