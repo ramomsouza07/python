@@ -71,3 +71,4 @@ print(array)
 array.sort()
 print(array)
 """
+#testando pra ver se ta atualizando 
